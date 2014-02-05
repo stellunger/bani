@@ -62,8 +62,8 @@
 					  <li><a href="<?php echo base_url(); ?>kompozitnie">Композитные бассейны</a></li>
 					  <li><a href="<?php echo base_url(); ?>betonnie">Железобетонные бассейны</a></li>
 					  <li><a href="<?php echo base_url(); ?>russkie">Русские бани</a></li>
-					  <li><a href="<?php echo base_url(); ?>finskie">Финские сауны</a></li>
-					  <li><a href="<?php echo base_url(); ?>tureckie">Турецкие сауны</a></li>
+					  <li><a href="<?php echo base_url(); ?>finskie">Финские бани</a></li>
+					  <li><a href="<?php echo base_url(); ?>tureckie">Турецкие бани</a></li>
 					  <li><a href="<?php echo base_url(); ?>about">О компании</a></li>
 					  <li><a href="<?php echo base_url(); ?>contacts">Контакты</a></li>
 					</ul>
