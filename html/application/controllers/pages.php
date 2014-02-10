@@ -75,8 +75,8 @@ class Pages extends CI_Controller {
 		$this->load->library('email');
 
 		$this->email->from('robot@ystellunger.ru', 'Робот Штеллунгера');
-		$this->email->to('imstellunger@yandex.ru'); 
-		//$this->email->cc('sales@stellunger.ru'); 
+		$this->email->to('2002515@bk.ru'); 
+		$this->email->cc('imstellunger@yandex.ru'); 
 		$this->email->subject($email_subject);
 		$this->email->message($email_content);	
 		$this->email->send();

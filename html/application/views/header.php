@@ -15,11 +15,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5">
-					<div class="b-logo"><a href="<?php echo base_url(); ?>">Строим бани и сауны.рф</a></div>
+					<div class="b-logo"><a href="<?php echo base_url(); ?>">А к в а с т р о й</a></div>
 				</div>
 				<div class="col-md-5 pull-right">
 					<div class="b-header-contact">
-						<div class="b-num">8 800 000 00 00</div>
+						<div class="b-num">+7 (473) 228 42 16</div>
 						<div class="b-link"><a href="#" class="b-order-call">| <span>Заказать звонок</span></a></div>
 					</div>
 					<div class="order-call">
