@@ -7,9 +7,10 @@ class Pages extends CI_Controller {
 	{
 		
 		$data['title'] = "Строительство композитных и бетонных бассейнов, русских бань, финских и турецких саун | Строим бани и сауны.рф";
+		$data['contactform'] = $this->load->view('contact_form','',true);
 
 		$this->load->view('header', $data);
-		$this->load->view('main_page');
+		$this->load->view('main_page', $data);
 		$this->load->view('footer');
 	}
 
@@ -74,7 +75,7 @@ class Pages extends CI_Controller {
 
 		$this->load->library('email');
 
-		$this->email->from('robot@ystellunger.ru', 'Робот Штеллунгера');
+		$this->email->from('robot@stellunger.ru', 'Робот Штеллунгера');
 		$this->email->to('2002515@bk.ru'); 
 		$this->email->cc('imstellunger@yandex.ru'); 
 		$this->email->subject($email_subject);
