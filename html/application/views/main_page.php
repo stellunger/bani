@@ -28,7 +28,7 @@
 	<div class="container">
 		<div class="b-order-form">
 				<h2>Отправить заявку</h2>
-				<form action="">
+				<?php echo form_open('send_email'); ?>
 					<div class="row">
 						<div class="col-md-12 col-sm-12">
 							<div class="input-group">							  							  
