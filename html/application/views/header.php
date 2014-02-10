@@ -19,7 +19,7 @@
 				</div>
 				<div class="col-md-5 pull-right">
 					<div class="b-header-contact">
-						<div class="b-num">+7 (473) 228 42 16</div>
+						<div class="b-num">+7 (473) 262-01-51</div>
 						<div class="b-link"><a href="#" class="b-order-call">| <span>Заказать звонок</span></a></div>
 					</div>
 					<div class="order-call">
