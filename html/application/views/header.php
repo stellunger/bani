@@ -29,14 +29,14 @@
 							<div class="row">
 								<div class="input-group">
 									<span class="input-group-addon"><img src="images/ico1.png" alt=""></span>
-									<input type="text" class="form-control" placeholder="Введите имя" name="inputName">
+									<input type="text" class="form-control" placeholder="Введите имя" name="inputName" required>
 								</div>
 								<div class="input-group">
 									<span class="input-group-addon"><img src="images/ico2.png" alt=""></span>
-									<input type="text" class="form-control" placeholder="Введите телефон" name="inputPhone">
+									<input type="text" class="form-control" placeholder="Введите телефон" name="inputPhone" required>
 								</div>
 								<div class="input-group">	
-									<textarea class="form-control" style="width:284px;height:150px;" placeholder="Текст сообщения" name="inputMessage"></textarea>
+									<textarea class="form-control" style="width:284px;height:150px;" placeholder="Текст сообщения" name="inputMessage" required></textarea>
 								</div>
 								<div class="b-button"><button class="btn b-button2">Отправить</button></div>
 							</div>
