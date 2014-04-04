@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://bani.local/';
+$config['base_url']	= 'http://xn-----7kcbc4bd2amdbxmke2a1l.xn--p1ai/';
 
 /*
 |--------------------------------------------------------------------------
